@@ -1,0 +1,1 @@
+.page-link{background:var(--bg-secondary);color:#fff;border:var(--bg-dark);cursor:pointer}.page-item.active .page-link{z-index:3;color:var(--bg-secondary);background-color:var(--bg-active);border-color:var(--bg-active)}.bg-nav-active-clear,.page-link:hover{background:var(--bg-active)}.page-link:hover{color:var(--bg-secondary)}.disabled{background:var(--bg-secondary)!important}
